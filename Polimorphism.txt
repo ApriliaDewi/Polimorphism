@@ -1,0 +1,7 @@
+Polimorphism
+
+Polimorphism merupakan penurunan sifat suatu objek dengan perubahan pada metode ataupun konstruktornya pada kelas turunannya.
+Polimorphism juga bisa di sebut dengan cloning, yaitu memiliki sifat yang sama, nama yang sama tapi dengan sedikit perubahan.
+Ada 2 bentuk polimorphism yaitu Overloading dan Overriding.
+Overloading merupakan konstruktor dengan parameter.
+Overriding merupakan penurunan metode dengan perubahan pada implementasinya.
